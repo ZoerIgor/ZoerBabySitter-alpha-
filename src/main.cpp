@@ -85,7 +85,7 @@ void setup()
         wirelessMode = WIRELESS_AP;
         staEncryptionType = ENCRYPT_WPA2;
         staSsid = "MOBILE";
-        staPassword = "4829pack";
+        staPassword = "12345678";
         apSsid = "TEST";
         apPassword = "12345678";
         apStaticNetworkConfig = true;
